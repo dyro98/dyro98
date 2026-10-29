@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **`Rayan`**,s a student and passionate programmer, I love combining my technical skills with creative problem-solving to build real-world solutions
+I'm **`Rayan`**, a student and passionate programmer, I love combining my technical skills with creative problem-solving to build real-world solutions
 
 Core Interests: Web Development | Artificial Intelligence | Data Science | Cybersecurity
 
