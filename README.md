@@ -16,7 +16,7 @@ Core Interests: Web Development | Artificial Intelligence | Data Science | Cyber
 
 ---
 
-<h2 id="knowledge_skills" align=''> Focus </h2>
+<h2 id="knowledge_skills" align=''> Focusing on </h2>
 
 <br>
 
