@@ -54,7 +54,7 @@ Core Interests: Web Development | Artificial Intelligence | Data Science | Cyber
 <h2 id="Projects" align=''> Projects </h2>
 
 
-| **Project**      | **Description**                                                                                  |
+| **Project**      | **Description**                                                                                   |
 |-------------------|--------------------------------------------------------------------------------------------------|
 | **[Project 1](https://github.com/)**    | Short Description |
 | **[Project 2](https://github.com/)**    | Short Description |
